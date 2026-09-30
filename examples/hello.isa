@@ -1,0 +1,10 @@
+iz.script;
+
+txt("Hello from ISA!");
+
+name != sys.input("Your name: ");
+txt("Hello, ");
+txt(name);
+
+W != 200.width;
+H != 100.height;
