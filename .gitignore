@@ -1,0 +1,4 @@
+isa
+isac
+src/*.o
+examples/*.isac
